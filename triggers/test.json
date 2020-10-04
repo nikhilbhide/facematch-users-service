@@ -1,0 +1,24 @@
+{
+    "version":"1",
+    "region":"us-east-1",
+    "userPoolId":"us-east-1_hwQbTokMO",
+    "userName":"isha2",
+    "callerContext":{
+       "awsSdkVersion":"aws-sdk-unknown-unknown",
+       "clientId":"3udpdukbrerslo7bpacbridpe5"
+    },
+    "triggerSource":"PostConfirmation_ConfirmSignUp",
+    "request":{
+       "userAttributes":{
+          "sub":"215b1ae6-18d8-43f4-87fa-3766e397cbbc",
+          "cognito:user_status":"CONFIRMED",
+          "email_verified":"true",
+          "phone_number_verified":"false",
+          "phone_number":"+1324234324",
+          "email":"nikhilbhide15@gmail.com"
+       }
+    },
+    "response":{
+       
+    }
+ }
